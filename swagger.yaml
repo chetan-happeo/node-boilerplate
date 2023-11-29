@@ -1,0 +1,27 @@
+{
+  "info": {
+    "title": "My Node Boilerplate API",
+    "version": "1.0.0",
+    "description": "Documentation for My Node Boilerplate API"
+  },
+  "basePath": "/api",
+  "swagger": "2.0",
+  "paths": {
+    "404": {
+      "description": "Not found"
+    },
+    "/sample": {
+      "200": null,
+      "get": {
+        "description": "Get all samples"
+      },
+      "responses": null,
+      "description": "Success"
+    }
+  },
+  "definitions": {},
+  "responses": {},
+  "parameters": {},
+  "securityDefinitions": {},
+  "tags": []
+}

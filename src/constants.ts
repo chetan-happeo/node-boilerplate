@@ -1,0 +1,1 @@
+export const FORMAT_HTTP_HEADERS_OPENTRACING = "x-opentracing-traceid";
